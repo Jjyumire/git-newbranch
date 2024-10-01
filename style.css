@@ -10,3 +10,7 @@ button {
     border: none;
     border-radius: 20px;
 }
+
+li {
+    text-decoration: none;
+}
