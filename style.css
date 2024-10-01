@@ -8,4 +8,5 @@ button {
     padding: 20px 30px;
     background-color: cornflowerblue;
     border: none;
+    border-radius: 20px;
 }
